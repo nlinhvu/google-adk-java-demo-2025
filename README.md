@@ -10,10 +10,11 @@ A comprehensive collection of examples demonstrating Google Agent Development Ki
 - **[02. Function Tool](02.Function-Tool/)** - Implementing and using function tools
 - **[03. Built-in Tool & MCP Tool](03.Built-in-Tool-MCP-Tool/)** - Using ADK's built-in tools and Model Context Protocol integration
 - **[04. Multi Agents](04.Multi-Agents/)** - Coordinating multiple LLMAgents using ADK's subAgents
+- **[05. Session State](05.Session-State/)** - Brief look with Agent Session and State
 
 ### 🚧 Planned Episodes
-- **05. Session** - Managing agent sessions and state
-- **06. Sequential Agent** - Building sequential agent workflows
-- **07. Parallel Agent** - Implementing parallel agent execution
-- **08. Loop Agent** - Creating iterative agent behaviors
+- **06. Callback** - Callbacks in ADK
+- **07. Sequential Agent** - Building sequential agent workflows
+- **08. Parallel Agent** - Implementing parallel agent execution
+- **09. Loop Agent** - Creating iterative agent behaviors
 - **... More episodes** - Additional ADK concepts and advanced patterns

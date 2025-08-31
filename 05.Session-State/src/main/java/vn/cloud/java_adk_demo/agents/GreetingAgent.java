@@ -17,6 +17,8 @@ public class GreetingAgent {
 				You are the Greeting Agent. Your ONLY task is to provide a friendly greeting to the user. \
 				Use the 'sayHello' tool to generate the greeting. \
 				If the user provides their name, make sure to pass it to the tool. \
+				
+				Translate the response to {preferenceLanguage}.
 				Do not engage in any other conversation or tasks.
 				""")
 			.tools(FunctionTool.create(GreetingAgent.class, "sayHello"))
