@@ -12,9 +12,9 @@ A comprehensive collection of examples demonstrating Google Agent Development Ki
 - **[04. Multi Agents](04.Multi-Agents/)** - Coordinating multiple LLMAgents using ADK's subAgents
 - **[05. Session State](05.Session-State/)** - Brief look with Agent Session and State
 - **[06. Callbacks](06.Callbacks/)** - Create Input Model Guardrail and Input Tool Guardrail
+- **[07. Sequential Agents](07.Sequential-Agent/)** - Building sequential agent workflows
 
 ### 🚧 Planned Episodes
-- **07. Sequential Agent** - Building sequential agent workflows
 - **08. Parallel Agent** - Implementing parallel agent execution
 - **09. Loop Agent** - Creating iterative agent behaviors
 - **10. Custom Agent**
